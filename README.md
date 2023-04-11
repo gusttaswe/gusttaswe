@@ -1,5 +1,5 @@
 
-<h2 align="center">Technology Stack <img src="https://github.com/gusttah/gusttah/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/gusttaswe/gusttaswe/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
@@ -21,7 +21,7 @@
 <div  align="center" >
   <a href="https://technog.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=CodeIgniter&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev.gustta.h@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gusttah" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gusttaswe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/xzakrow_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
@@ -29,7 +29,7 @@
   My Contribution Graph <img src="https://media0.giphy.com/media/LRCXubo2QwvhL2RGcS/giphy.gif" width="100" height="40">
 </h2>
 <p align="center">
-  <img src="https://github.com/gusttah/gusttah/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/gusttaswe/gusttaswe/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
@@ -39,12 +39,12 @@
 <br>
 
 <p align = "center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttah&show_icons=true&theme=radical&line_height=27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttah&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttaswe&show_icons=true&theme=radical&line_height=27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaswe&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gusttah&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <hr>
