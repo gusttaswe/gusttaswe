@@ -40,13 +40,12 @@
 <br>
 
 <p align = "center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttaswe&show_icons=true&theme=radical&line_height=27"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaswe&layout=compact&langs_count=7&theme=radical"/>
  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 <h2 align="center">
-  Highlighted Projects <img src="https://media0.giphy.com/media/LRCXubo2QwvhL2RGcS/giphy.gif" width="100" height="40">
+  Highlighted Projects <img src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47o2tcdjfe8c4lv8il7l194h7u40aa21xf5k4h8pt4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" height="40">
 </h2>
 <div align="center">
   
