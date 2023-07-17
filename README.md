@@ -2,18 +2,19 @@
 <h2 align="center">Technology Stack <img src="https://github.com/gusttaswe/gusttaswe/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-TypeScript-032d5a?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-Nestjs-c50234?style=flat-square&logo=nestjs" />
+  <img src="https://img.shields.io/badge/-Tailwind-090e1a?style=flat-square&logo=tailwindcss"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50"></h2>
@@ -39,13 +40,19 @@
 <br>
 
 <p align = "center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttaswe&show_icons=true&theme=radical&line_height=27">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttaswe&show_icons=true&theme=radical&line_height=27"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaswe&layout=compact&langs_count=7&theme=radical"/>
+ <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<h2 align="center">
+  Highlighted Projects <img src="https://media0.giphy.com/media/LRCXubo2QwvhL2RGcS/giphy.gif" width="100" height="40">
+</h2>
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusttaswe&repo=react-image-color-picker&show_owner=true)](https://github.com/gusttaswe/react-image-color-picker)
+
+</div>
 
 <hr>
 <p align="center">Let's built a better world through the code! 💻</p>
