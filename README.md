@@ -15,6 +15,13 @@
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis"/>
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Typeorm-3c356a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Sequelize-fff?style=flat-square&logo=sequelize"/>
+  <img src="https://img.shields.io/badge/-Jest-c50234?style=flat-square&logo=jest" />
+  <img src="https://img.shields.io/badge/-GitFlow-black?style=flat-square&logo=git"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50"></h2>
