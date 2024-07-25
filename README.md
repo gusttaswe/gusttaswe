@@ -36,7 +36,7 @@
   My Contribution Graph <img src="https://media0.giphy.com/media/LRCXubo2QwvhL2RGcS/giphy.gif" width="100" height="40">
 </h2>
 <p align="center">
-  <img src="https://github.com/gusttaswe/gusttaswe/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/gusttaswe/gusttaswe/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
