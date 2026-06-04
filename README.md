@@ -1,4 +1,4 @@
-<h2 align="center">Technology Stack <img src="https://github.com/gusttaswe/gusttaswe/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://raw.githubusercontent.com/ritik307/ritik307/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
