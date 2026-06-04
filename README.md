@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/-GitFlow-black?style=flat-square&logo=git"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50"></h2>
+<h2 align="center">Reach out to me on <img src="https://media0.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50"></h2>
 
-<div  align="center" >
+<div align="center">
   <a href="https://gusttaswe.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=CodeIgniter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dev.gustta.h@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:dev.gustta.h@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gusttaswe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/gusttaswe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
@@ -36,18 +36,18 @@
   My Contribution Graph <img src="https://media0.giphy.com/media/LRCXubo2QwvhL2RGcS/giphy.gif" width="100" height="40">
 </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gusttaswe/gusttaswe/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/gusttaswe/gusttaswe/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
  
 <br>
 
-<p align = "center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaswe&layout=compact&langs_count=7&theme=radical"/>
- <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 <h2 align="center">
@@ -60,4 +60,4 @@
 </div>
 
 <hr>
-<p align="center">Let's built a better world through the code! 💻</p>
+<p align="center">Let's build a better world through code! 💻</p>
