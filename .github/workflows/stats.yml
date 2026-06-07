@@ -30,9 +30,9 @@ jobs:
           user: gusttaswe
           template: classic
           base: ""
-          config_display: large
           config_output: svg
-          filename: dist/top-langs.svg
+          filename: top-langs.svg
+          committer_branch: output
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -40,12 +40,3 @@ jobs:
           plugin_languages_limit: 7
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-
-      - name: Push stats to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
