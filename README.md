@@ -46,8 +46,8 @@
 <br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaswe&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img height="180em" src="https://raw.githubusercontent.com/gusttaswe/gusttaswe/output/top-langs.svg" alt="Top Languages"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=gusttaswe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 <h2 align="center">
